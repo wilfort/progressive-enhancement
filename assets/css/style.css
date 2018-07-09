@@ -1,10 +1,10 @@
-p, figcaption, ul, li, h1, h2, h4, a, a:link, a:visited, a:hover, a:active {
+body, p, figcaption, ul, li, h1, h2, h4, a, a:link, a:visited, a:hover, a:active {
   font-family: 'Times New Roman', Times, sans-serif;
-  color: rgb(68, 62, 62);
+  color: rgb(2, 0, 38);
   line-height: 2
 }
 
-p, figcaption, ul, li, a, a:link, a:visited, a:hover, a:active {
+body,p, figcaption, ul, li, a, a:link, a:visited, a:hover, a:active {
   font-size: 21px;
 }
 
@@ -21,18 +21,20 @@ h4 {
 }
 
 .bien {
-  color: rgb(0, 255, 0)
+  color: rgb(0, 255, 0);text-transform: capitalize;
+
 }
 
 .mal {
-  color: red
+  color: red;text-transform: capitalize;
+
 }
 
 body {
   width: 90%;
   background: -webkit-linear-gradient(0deg, rgb(170, 255, 0), rgb(255, 0, 0));
   background: linear-gradient(0deg, rgb(170, 255, 0), rgb(255, 0, 0));
-  background-image: url('assets/images/ob_b9f88b_tlt.jpg');
+  background-image: url('../images/ob_b9f88b_tlt.jpg');
   background-repeat: no-repeat;
   background-position: bottom right;
   /* background-size: 300px; */
@@ -52,4 +54,5 @@ body, blockquote {
 }
 blockquote{font-style: italic;}
 .fermier{border-left: 3px solid #ffbe45;}
-.villageois{border-left: 3px solid #ac55b4;}
+.villageois{border-left: 3px solid #f04fff;}
+table{width: 100%;background-color: #ffffff}
