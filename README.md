@@ -1,6 +1,6 @@
 # progressive-enhancement
 
-- **Client** : 
+- **Client** : Excercice
 - **Where ?** : At [Becode]()
 - **When ?** :  9/07/18
 - **By who ?** : [Nicolas de Liederkerke](https://github.com/Liedekerke), [Stephane Wilfort](https://github.com/wilfort) 
@@ -25,5 +25,9 @@ On doit travailler sur un projet en binome pendant 1 jour sur la sémantique HTM
 
 #### Test W3
 
+#### Layout
+
+-[Site](https://medium.com/scribe/il-ny-a-rien-de-bien-ni-de-mal-3d46a2d2e263
+   )
 
 #### Difficultés rencontrées
