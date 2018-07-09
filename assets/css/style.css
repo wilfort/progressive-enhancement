@@ -1,5 +1,6 @@
 html, body {
   display: inherit;
+  height: auto;
 }
 
 ul, li, a {
@@ -122,4 +123,5 @@ img {
 
 .imageflottante {
   float: left;
+  padding-right: 25px;
 }
