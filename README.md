@@ -8,7 +8,7 @@
 
 ## About
 
-
+On doit travailler sur un projet en binome pendant 1 jour sur la sémantique HTML.
 
 - repository : `progressive-enhancement`
 - team : `Télétubbies`
@@ -16,21 +16,14 @@
 
 ## Objectifs d'apprentissage
 
-
-
-## Travail d'intégration frontend
-
-
-
+- Amélioration progressive
+- Sémantique HTML
+- CSS
 
 #### Test lighthouse
 
 
 #### Test W3
 
-
-#### Le Mockup
-
-[HERE PDF]()
 
 #### Difficultés rencontrées
