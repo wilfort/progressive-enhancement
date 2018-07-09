@@ -1,3 +1,16 @@
+html, body {
+  display: inherit;
+}
+
+ul, li, a {
+  margin: 10px;
+  padding: 10px;
+}
+
+a {
+  text-decoration: inherit;
+}
+
 body, p, figcaption, ul, li, h1, h2, h4, a, a:link, a:visited, a:hover, a:active {
   font-family: 'Times New Roman', Times, sans-serif;
   color: rgb(2, 0, 38);
@@ -68,4 +81,27 @@ blockquote {
 table {
   width: 100%;
   background-color: #ffffff
+}
+
+.gras {
+  Font-Weight: Bold;
+}
+
+.imgbien {
+  background-image: url('../images/bien.png');
+  background-repeat: no-repeat;
+  padding-right: 10px;
+  display: block;
+}
+
+.imgmal {
+  background-image: url('../images/mal.png');
+  background-repeat: no-repeat;
+  padding-right: 10px;
+}
+
+.imgchat {
+  background-image: url('../images/chat.png');
+  background-repeat: no-repeat;
+  padding-right: 100px;
 }
