@@ -50,3 +50,6 @@ blockquote {
 body, blockquote {
   margin: 0 auto;
 }
+blockquote{font-style: italic;}
+.fermier{border-left: 3px solid #ffbe45;}
+.villageois{border-left: 3px solid #ac55b4;}
